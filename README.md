@@ -35,7 +35,7 @@ The dataset was preprocessed to include additional financial indicators, such as
 
 ## Repository Contents
 
-- **data/**: Contains the preprocessed dataset files (not included here; please download from the Kaggle link above).
+- **data/**: Contains the dataset file.
 - **models/**: Model architecture and configurations for the NTPP model, including LSTM setup and MTPP framework.
 - **scripts/**: Main scripts for data processing, training, and evaluation.
 - **notebooks/**: Jupyter notebooks for exploratory data analysis and visualization of model performance.
