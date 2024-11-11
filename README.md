@@ -36,14 +36,11 @@ The dataset was preprocessed to include additional financial indicators, such as
 ## Repository Contents
 
 - **data/**: Contains the dataset file.
-- **models/**: Model architecture and configurations for the NTPP model, including LSTM setup and MTPP framework.
-- **scripts/**: Main scripts for data processing, training, and evaluation.
-- **notebooks/**: Jupyter notebooks for exploratory data analysis and visualization of model performance.
-- **results/**: Contains training loss plots, confusion matrices, and other evaluation metrics.
+- ** .ipynb **: Contains the whole code for data pre-processing, model training and testing. 
 
 ## How to Run
 
-1. **Download the S&P 500 dataset** from Kaggle and place it in the `data/` folder.
+1. **Download the S&P 500 dataset** from Kaggle or use the file in data/ folder.
 2. **Install the required dependencies** 
 3. **Run the training script** to preprocess the data, train the NTPP model, and evaluate its performance:
 # Results and Analysis
