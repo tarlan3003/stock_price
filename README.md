@@ -46,6 +46,6 @@ The dataset was preprocessed to include additional financial indicators, such as
 1. **Download the S&P 500 dataset** from Kaggle and place it in the `data/` folder.
 2. **Install the required dependencies** 
 3. **Run the training script** to preprocess the data, train the NTPP model, and evaluate its performance:
-###Results and Analysis
+# Results and Analysis
 
 The model achieves high accuracy and balanced precision-recall scores across the training and test datasets. Training loss plots and confusion matrices are provided to showcase the model's learning progress and classification accuracy. This repository also includes code for visualizing these results to better understand the model's performance.
